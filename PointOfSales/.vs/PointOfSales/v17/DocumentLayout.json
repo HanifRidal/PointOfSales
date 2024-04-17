@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\views\\produks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\views\\produks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\models\\domain\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\models\\domain\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\controllers\\produkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\controllers\\produkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\pointofsales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\pointofsales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|c:\\users\\rog strix\\source\\repos\\pointofsales\\pointofsales\\migrations\\20240416103910_migration init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA1262D-2AE4-45F1-823E-4F550AAFADBE}|PointOfSales\\PointOfSales.csproj|solutionrelative:pointofsales\\migrations\\20240416103910_migration init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Views\\Produks\\Create.cshtml",
+              "RelativeDocumentMoniker": "PointOfSales\\Views\\Produks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Views\\Produks\\Create.cshtml",
+              "RelativeToolTip": "PointOfSales\\Views\\Produks\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T10:57:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "PointOfSales\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:50:56.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduksController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\ProduksController.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Controllers\\ProduksController.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\ProduksController.cs",
+              "RelativeToolTip": "PointOfSales\\Controllers\\ProduksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:48:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PointOfSales\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:11:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Dockerfile",
+              "RelativeDocumentMoniker": "PointOfSales\\Dockerfile",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Dockerfile",
+              "RelativeToolTip": "PointOfSales\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T08:42:29.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Program.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Program.cs",
+              "RelativeToolTip": "PointOfSales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:42:26.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produk.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\Domain\\Produk.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Models\\Domain\\Produk.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\Domain\\Produk.cs",
+              "RelativeToolTip": "PointOfSales\\Models\\Domain\\Produk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:37:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240416103910_Migration Init.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Migrations\\20240416103910_Migration Init.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Migrations\\20240416103910_Migration Init.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Migrations\\20240416103910_Migration Init.cs",
+              "RelativeToolTip": "PointOfSales\\Migrations\\20240416103910_Migration Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:39:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PointOfSales\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:56:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\appsettings.json",
+              "RelativeDocumentMoniker": "PointOfSales\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\appsettings.json",
+              "RelativeToolTip": "PointOfSales\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T08:37:03.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "PointOfSales\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:58:09.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointOfSales.csproj",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\PointOfSales.csproj",
+              "RelativeDocumentMoniker": "PointOfSales\\PointOfSales.csproj",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\PointOfSales.csproj",
+              "RelativeToolTip": "PointOfSales\\PointOfSales.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T23:45:11.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PointOfSales\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\source\\repos\\PointOfSales\\PointOfSales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PointOfSales\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:41:01.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
