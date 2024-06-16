@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PintOfSales_DBfirst.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>CATEGORY LIST</h1>
+
+<p>
+    <a class="btn btn-primary btn-lg" asp-action="Create">+ CATEGORY</a>
+</p>
+<table class="table table-responsive table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                No
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryId)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td class="btn-group" role="group">
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.CategoryId">Edit</a>
+                <a class="btn btn-outline-warning" asp-action="Details" asp-route-id="@item.CategoryId">Details</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
