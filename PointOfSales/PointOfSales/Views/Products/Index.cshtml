@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PointOfSales.Models.Domain.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>PRODUCT LIST</h1>
+
+<p>
+    <a class="btn btn-primary btn-lg" asp-action="Create">+ PRODUK</a>
+</p>
+<table class="table table-responsive table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                No
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td class="btn-group" role="group">
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.ProductId">Edit</a>
+                <a class="btn btn-outline-warning" asp-action="Details" asp-route-id="@item.ProductId">Details</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

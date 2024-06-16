@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PointOfSales_DBfirst.props" />
+</Project>

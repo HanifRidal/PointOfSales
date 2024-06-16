@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PintOfSales_DBfirst.props" />
+</Project>

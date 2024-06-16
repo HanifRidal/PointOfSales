@@ -28,7 +28,7 @@ namespace PointOfSales.Controllers
         }
 
         // GET: Categories/Details/5
-        public async Task<IActionResult> Details(Guid? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Categories == null)
             {
@@ -56,11 +56,10 @@ namespace PointOfSales.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CategoryId,Name")] Category category)
+        public async Task<IActionResult> Create([Bind("CategoryId,CategoryName")] Category category)
         {
             if (ModelState.IsValid)
             {
-                category.CategoryId = Guid.NewGuid();
                 _context.Add(category);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -69,7 +68,7 @@ namespace PointOfSales.Controllers
         }
 
         // GET: Categories/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Categories == null)
             {
@@ -89,7 +88,7 @@ namespace PointOfSales.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("CategoryId,Name")] Category category)
+        public async Task<IActionResult> Edit(int id, [Bind("CategoryId,CategoryName")] Category category)
         {
             if (id != category.CategoryId)
             {
@@ -120,7 +119,7 @@ namespace PointOfSales.Controllers
         }
 
         // GET: Categories/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Categories == null)
             {
@@ -140,7 +139,7 @@ namespace PointOfSales.Controllers
         // POST: Categories/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.Categories == null)
             {
@@ -156,7 +155,7 @@ namespace PointOfSales.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool CategoryExists(Guid id)
+        private bool CategoryExists(int id)
         {
           return (_context.Categories?.Any(e => e.CategoryId == id)).GetValueOrDefault();
         }
