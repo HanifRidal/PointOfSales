@@ -1,5 +1,5 @@
-using PointOfSales.Data;
 using Microsoft.EntityFrameworkCore;
+using PointOfSales.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
